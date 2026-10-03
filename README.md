@@ -61,7 +61,7 @@ estudar → testar → errar → pesquisar → construir → entender → compar
 
 <p align="justify"><b>DevNews.</b> Curadoria de notícias relevantes do setor de tecnologia, publicada no Discord do clube. Cada edição apresenta um resumo objetivo do acontecimento, o contexto necessário para compreendê-lo e uma breve análise sobre o que ele pode representar para a área. A iniciativa abrange temas como desenvolvimento de software, inteligência artificial, cibersegurança, computação em nuvem, infraestrutura, hardware e mercado de tecnologia, com o propósito de estimular nos membros o hábito de acompanhar o setor.</p>
 
-<p align="justify"><b>Por Trás do Code.</b> Fórum dedicado às curiosidades do mundo da tecnologia: convenções presentes no cotidiano digital que todos utilizam, mas cuja origem poucos conhecem. Cada publicação investiga a história e as razões técnicas por trás de um tema, como a disposição QWERTY dos teclados, a escolha dos atalhos Ctrl+C e Ctrl+V, a origem do “www”, a diferença entre as barras <code>/</code> e <code>\</code> e o significado do erro 404.</p>
+<p align="justify"><b>Por Trás do Code.</b> Fórum dedicado às curiosidades do universo da tecnologia. A iniciativa explora as convenções, os padrões e os detalhes presentes no cotidiano digital, que todos utilizam, mas cuja origem raramente é conhecida. Cada publicação resgata o contexto histórico e as razões técnicas que levaram uma tecnologia a funcionar da forma como a conhecemos hoje, revelando que muitas escolhas aparentemente arbitrárias são, na verdade, heranças de decisões tomadas décadas atrás.</p>
 
 ## Equipe
 

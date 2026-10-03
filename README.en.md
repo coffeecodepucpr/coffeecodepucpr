@@ -61,7 +61,7 @@ study → test → fail → research → build → understand → share
 
 <p align="justify"><b>DevNews.</b> A curated selection of relevant technology industry news, published on the club's Discord server. Each edition presents a concise summary of the event, the context needed to understand it and a brief analysis of what it may mean for the field. Topics include software development, artificial intelligence, cybersecurity, cloud computing, infrastructure, hardware and the tech market, with the aim of helping members build the habit of following the industry.</p>
 
-<p align="justify"><b>Por Trás do Code</b> (Behind the Code). A forum dedicated to technology trivia: everyday digital conventions that everyone uses but few know the origin of. Each post explores the history and technical reasoning behind a topic, such as the QWERTY keyboard layout, the choice of Ctrl+C and Ctrl+V as shortcuts, the origin of “www”, the difference between the <code>/</code> and <code>\</code> slashes and the meaning of the 404 error.</p>
+<p align="justify"><b>Por Trás do Code</b> (Behind the Code). A forum dedicated to technology trivia. The initiative explores the conventions, standards and details of everyday digital life that everyone uses but whose origins are rarely known. Each post uncovers the historical context and technical reasoning that shaped a technology into what we know today, showing that many seemingly arbitrary choices are in fact legacies of decisions made decades ago.</p>
 
 ## Team
 
