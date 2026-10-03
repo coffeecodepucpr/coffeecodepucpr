@@ -55,11 +55,11 @@ Cada repositório de semana tem uma seção **Entregas da turma** com os projeto
 
 <table>
   <tr>
-    <td align="center" width="150"><a href="https://github.com/ribasgiovanna"><img src="https://github.com/ribasgiovanna.png?size=100" width="80" alt=""><br><b>Giovanna Ribas</b></a><br><sub>@ribasgiovanna</sub><br><sub>Fundadora · coordenação geral, parte técnica e materiais</sub></td>
-    <td align="center" width="150"><a href="https://github.com/liz-whs"><img src="https://github.com/liz-whs.png?size=100" width="80" alt=""><br><b>Emelize Bonfim Mlot</b></a><br><sub>@liz-whs</sub><br><sub>Gestão das inscrições e materiais</sub></td>
-    <td align="center" width="150"><a href="https://github.com/rodavio"><img src="https://github.com/rodavio.png?size=100" width="80" alt=""><br><b>Otávio</b></a><br><sub>@rodavio</sub><br><sub>Organização do Discord</sub></td>
-    <td align="center" width="150"><a href="https://github.com/anaapatussi-prog"><img src="https://github.com/anaapatussi-prog.png?size=100" width="80" alt=""><br><b>Ana Beatriz Patussi</b></a><br><sub>@anaapatussi-prog</sub><br><sub>Mídia</sub></td>
-    <td align="center" width="150"><a href="https://github.com/anaernandes08"><img src="https://github.com/anaernandes08.png?size=100" width="80" alt=""><br><b>Ana</b></a><br><sub>@anaernandes08</sub><br><sub>Mídia</sub></td>
+    <td align="center" width="150"><a href="https://github.com/ribasgiovanna"><img src="https://github.com/ribasgiovanna.png?size=100" width="80" alt=""><br><b>Giovanna Ribas</b></a><br><sub>@ribasgiovanna</sub><br><sub><b>Fundadora e Diretora Geral</b><br>Direção técnica e produção do conteúdo didático</sub></td>
+    <td align="center" width="150"><a href="https://github.com/liz-whs"><img src="https://github.com/liz-whs.png?size=100" width="80" alt=""><br><b>Emelize Bonfim Mlot</b></a><br><sub>@liz-whs</sub><br><sub><b>Coordenação de Admissões e Conteúdo</b><br>Processo seletivo, inscrições e gestão dos materiais</sub></td>
+    <td align="center" width="150"><a href="https://github.com/rodavio"><img src="https://github.com/rodavio.png?size=100" width="80" alt=""><br><b>Otávio</b></a><br><sub>@rodavio</sub><br><sub><b>Gestão de Comunidade</b><br>Administração e organização do servidor no Discord</sub></td>
+    <td align="center" width="150"><a href="https://github.com/anaapatussi-prog"><img src="https://github.com/anaapatussi-prog.png?size=100" width="80" alt=""><br><b>Ana Beatriz Patussi</b></a><br><sub>@anaapatussi-prog</sub><br><sub><b>Comunicação e Mídia</b><br>Redes sociais, identidade visual e divulgação</sub></td>
+    <td align="center" width="150"><a href="https://github.com/anaernandes08"><img src="https://github.com/anaernandes08.png?size=100" width="80" alt=""><br><b>Ana</b></a><br><sub>@anaernandes08</sub><br><sub><b>Comunicação e Mídia</b><br>Redes sociais, identidade visual e divulgação</sub></td>
   </tr>
 </table>
 

@@ -57,11 +57,11 @@ Each week's repository has an **Entregas da turma** (student projects) section l
 
 <table>
   <tr>
-    <td align="center" width="150"><a href="https://github.com/ribasgiovanna"><img src="https://github.com/ribasgiovanna.png?size=100" width="80" alt=""><br><b>Giovanna Ribas</b></a><br><sub>@ribasgiovanna</sub><br><sub>Founder · general coordination, technical lead and course material</sub></td>
-    <td align="center" width="150"><a href="https://github.com/liz-whs"><img src="https://github.com/liz-whs.png?size=100" width="80" alt=""><br><b>Emelize Bonfim Mlot</b></a><br><sub>@liz-whs</sub><br><sub>Enrollment and course material management</sub></td>
-    <td align="center" width="150"><a href="https://github.com/rodavio"><img src="https://github.com/rodavio.png?size=100" width="80" alt=""><br><b>Otávio</b></a><br><sub>@rodavio</sub><br><sub>Discord community organizer</sub></td>
-    <td align="center" width="150"><a href="https://github.com/anaapatussi-prog"><img src="https://github.com/anaapatussi-prog.png?size=100" width="80" alt=""><br><b>Ana Beatriz Patussi</b></a><br><sub>@anaapatussi-prog</sub><br><sub>Media</sub></td>
-    <td align="center" width="150"><a href="https://github.com/anaernandes08"><img src="https://github.com/anaernandes08.png?size=100" width="80" alt=""><br><b>Ana</b></a><br><sub>@anaernandes08</sub><br><sub>Media</sub></td>
+    <td align="center" width="150"><a href="https://github.com/ribasgiovanna"><img src="https://github.com/ribasgiovanna.png?size=100" width="80" alt=""><br><b>Giovanna Ribas</b></a><br><sub>@ribasgiovanna</sub><br><sub><b>Founder and Executive Director</b><br>Technical direction and course content development</sub></td>
+    <td align="center" width="150"><a href="https://github.com/liz-whs"><img src="https://github.com/liz-whs.png?size=100" width="80" alt=""><br><b>Emelize Bonfim Mlot</b></a><br><sub>@liz-whs</sub><br><sub><b>Admissions and Content Coordinator</b><br>Selection process, enrollment and course material management</sub></td>
+    <td align="center" width="150"><a href="https://github.com/rodavio"><img src="https://github.com/rodavio.png?size=100" width="80" alt=""><br><b>Otávio</b></a><br><sub>@rodavio</sub><br><sub><b>Community Manager</b><br>Discord server administration and organization</sub></td>
+    <td align="center" width="150"><a href="https://github.com/anaapatussi-prog"><img src="https://github.com/anaapatussi-prog.png?size=100" width="80" alt=""><br><b>Ana Beatriz Patussi</b></a><br><sub>@anaapatussi-prog</sub><br><sub><b>Communications and Media</b><br>Social media, visual identity and outreach</sub></td>
+    <td align="center" width="150"><a href="https://github.com/anaernandes08"><img src="https://github.com/anaernandes08.png?size=100" width="80" alt=""><br><b>Ana</b></a><br><sub>@anaernandes08</sub><br><sub><b>Communications and Media</b><br>Social media, visual identity and outreach</sub></td>
   </tr>
 </table>
 
