@@ -2,7 +2,7 @@
 
 # Coffee & Code
 
-**PUCPR's tech club**
+**A tech club created by Software Engineering students at PUCPR**
 
 [Português](README.md) · English
 
@@ -14,7 +14,9 @@
 
 </div>
 
-Coffee & Code is a club run by students, for students who want to learn tech **by building things**. It isn't an extra class or a traditional course: it's a guided learning path that gives you structure, material and direction so you can learn at your own pace.
+Coffee & Code is a **tech** club formed by Software Engineering students at PUCPR. It isn't just for university students: it's for anyone who wants to learn more about technology and **build things**.
+
+It isn't an extra class or a traditional course: it's a guided learning path that gives you structure, material and direction so you can learn at your own pace.
 
 ```text
 study → test → fail → research → build → understand → share

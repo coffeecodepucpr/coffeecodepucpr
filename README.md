@@ -2,7 +2,7 @@
 
 # Coffee & Code
 
-**O clube de tecnologia da PUCPR**
+**Clube de tecnologia criado por estudantes de Engenharia de Software da PUCPR**
 
 Português · [English](README.en.md)
 
@@ -14,7 +14,9 @@ Português · [English](README.en.md)
 
 </div>
 
-O Coffee & Code é um clube de estudantes, para estudantes, que querem aprender tecnologia **construindo coisas**. Não é uma matéria extra nem um curso tradicional: é uma trilha de desenvolvimento acompanhada, em que você recebe estrutura, material e direção para aprender no seu ritmo.
+O Coffee & Code é um clube de **tecnologia**, formado por estudantes de Engenharia de Software da PUCPR. Não é um clube só para universitários: é para qualquer pessoa que queira aprender mais sobre tecnologia e **construir coisas**.
+
+Não é uma matéria extra nem um curso tradicional: é uma trilha de desenvolvimento acompanhada, em que você recebe estrutura, material e direção para aprender no seu ritmo.
 
 ```text
 estudar → testar → errar → pesquisar → construir → entender → compartilhar
