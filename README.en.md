@@ -2,7 +2,7 @@
 
 # Coffee & Code
 
-**A tech club created by Software Engineering students at PUCPR**
+**A technology club founded by Software Engineering students at PUCPR**
 
 [Português](README.md) · English
 
@@ -14,46 +14,50 @@
 
 </div>
 
-Coffee & Code is a **tech** club formed by Software Engineering students at PUCPR. It isn't just for university students: it's for anyone who wants to learn more about technology and **build things**.
+<p align="justify">Coffee & Code is a technology club founded by Software Engineering students at the Pontifical Catholic University of Paraná (PUCPR), Brazil. Although it originated in a university setting, the club is open to anyone interested in expanding their knowledge of technology and developing hands-on projects.</p>
 
-It isn't an extra class or a traditional course: it's a guided learning path that gives you structure, material and direction so you can learn at your own pace.
+<p align="justify">Coffee & Code is neither a supplementary course nor a traditional class. It is a guided development path that provides structure, learning materials and mentorship, enabling each participant to learn at their own pace.</p>
 
 ```text
 study → test → fail → research → build → understand → share
 ```
 
-You don't need to know how to code to join. Asking questions is encouraged, and making mistakes is part of the process.
+<p align="justify">No prior programming experience is required. The club encourages participants to ask questions and regards mistakes as an integral part of the learning process.</p>
 
 ## How it works
 
-- **100% online.** Material, meetings and submissions all happen online.
-- **A 14-week path**, each week with its own topic. Each week's material lives here on GitHub, written in Markdown so you can read it right in the browser.
-- **Individual project.** Everyone builds their own project over the weeks, from planning all the way to code.
-- **Two levels, one material.** Step-by-step explanations for beginners and extra challenges for people who already code.
-- **Weekly meetings** to ask questions, code together and present progress. Both slots cover the same content (Brasília time):
+<p align="justify"><b>Format.</b> All activities take place entirely online, including the publication of learning materials, weekly meetings and project submissions.</p>
+
+<p align="justify"><b>Learning path.</b> The program consists of 14 weeks, each dedicated to a specific topic. The materials are published on this GitHub profile in Markdown format and can be read directly in the browser. All materials are written in Portuguese.</p>
+
+<p align="justify"><b>Individual project.</b> Each participant develops their own project throughout the path, covering every stage from planning to implementation.</p>
+
+<p align="justify"><b>Depth levels.</b> The material offers two levels: detailed explanations intended for beginners, and supplementary challenges intended for participants with previous programming experience.</p>
+
+<p align="justify"><b>Weekly meetings.</b> Weekly meetings are held for answering questions, collaborative practice and presenting project progress. Both sessions cover the same content, and participants may attend whichever best suits their schedule. Times are given in Brasília time (UTC−3).</p>
 
 | Day | Time |
 |---|---|
 | Wednesday | 8:00 PM to 9:30 PM |
 | Saturday | 10:00 AM to 11:30 AM |
 
-## The path
-
-The material is written in Portuguese.
+## Learning path
 
 | Week | Topic | Material |
 |---|---|---|
-| 01 | Kickoff & Design System — Git, GitHub, Markdown, requirements, UX/UI, Figma | [coffee-code-sem01](https://github.com/coffeecodepucpr/coffee-code-sem01) |
-| 02 | Web Interface, Part 1: Layout — HTML, CSS, Flexbox, Grid, responsive design, Tailwind | [coffee-code-sem02](https://github.com/coffeecodepucpr/coffee-code-sem02) |
-| 03 | Web Interface, Part 2: Interactivity — JavaScript, DOM, events, validation, JSON | [coffee-code-sem03](https://github.com/coffeecodepucpr/coffee-code-sem03) |
+| 01 | Kickoff and Design System: Git, GitHub, Markdown, requirements, UX/UI and Figma | [coffee-code-sem01](https://github.com/coffeecodepucpr/coffee-code-sem01) |
+| 02 | Web Interface, Part 1 (Layout): HTML, CSS, Flexbox, Grid, responsive design and Tailwind | [coffee-code-sem02](https://github.com/coffeecodepucpr/coffee-code-sem02) |
+| 03 | Web Interface, Part 2 (Interactivity): JavaScript, DOM, events, validation and JSON | [coffee-code-sem03](https://github.com/coffeecodepucpr/coffee-code-sem03) |
 
-New weeks are added as the path moves forward.
+<p align="justify">New weeks are added to this list as the path progresses.</p>
 
 ## Student projects
 
-Each week's repository has an **Entregas da turma** (student projects) section listing everyone who submitted, with links to their Figma prototypes and to their pages running in the browser. The step-by-step submission guide is in each week's `entregas/` folder.
+<p align="justify">Each weekly repository includes a section entitled <b>Entregas da turma</b> (student projects), which gathers the projects submitted by participants, with access to their Figma prototypes and to their interfaces published for viewing in the browser. Submission guidelines are available in the <code>entregas/</code> folder of each week.</p>
 
 ## Team
+
+<p align="justify">Coffee & Code is organized by the following team:</p>
 
 <table>
   <tr>

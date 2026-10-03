@@ -2,7 +2,7 @@
 
 # Coffee & Code
 
-**Clube de tecnologia criado por estudantes de Engenharia de Software da PUCPR**
+**Clube de tecnologia fundado por estudantes de Engenharia de Software da PUCPR**
 
 Português · [English](README.en.md)
 
@@ -14,44 +14,50 @@ Português · [English](README.en.md)
 
 </div>
 
-O Coffee & Code é um clube de **tecnologia**, formado por estudantes de Engenharia de Software da PUCPR. Não é um clube só para universitários: é para qualquer pessoa que queira aprender mais sobre tecnologia e **construir coisas**.
+<p align="justify">O Coffee & Code é um clube de tecnologia fundado por estudantes do curso de Engenharia de Software da Pontifícia Universidade Católica do Paraná (PUCPR). Embora tenha origem no ambiente universitário, o clube é aberto a todas as pessoas interessadas em aprofundar seus conhecimentos em tecnologia e em desenvolver projetos práticos.</p>
 
-Não é uma matéria extra nem um curso tradicional: é uma trilha de desenvolvimento acompanhada, em que você recebe estrutura, material e direção para aprender no seu ritmo.
+<p align="justify">O Coffee & Code não se configura como disciplina complementar nem como curso tradicional. Trata-se de uma trilha de desenvolvimento acompanhada, que oferece estrutura, materiais e orientação para que cada participante aprenda em seu próprio ritmo.</p>
 
 ```text
 estudar → testar → errar → pesquisar → construir → entender → compartilhar
 ```
 
-Não é preciso chegar sabendo programar. Perguntar é incentivado, e errar faz parte do processo.
+<p align="justify">Não é necessário possuir conhecimento prévio em programação. O clube incentiva a formulação de perguntas e compreende o erro como parte integrante do processo de aprendizagem.</p>
 
 ## Como funciona
 
-- **100% online.** Material, encontros e entregas acontecem pela internet.
-- **14 semanas de trilha**, cada uma com um tema. O material de cada semana fica aqui no GitHub, em Markdown, para ler direto no navegador.
-- **Projeto individual.** Cada pessoa constrói o próprio projeto ao longo das semanas, do planejamento até o código.
-- **Dois níveis no mesmo material.** Explicações passo a passo para quem está começando e desafios extras para quem já programa.
-- **Encontros semanais** para tirar dúvidas, programar junto e apresentar o progresso. Os dois horários trabalham o mesmo conteúdo:
+<p align="justify"><b>Formato.</b> As atividades ocorrem de forma integralmente online, incluindo a disponibilização dos materiais, a realização dos encontros e o envio das entregas.</p>
+
+<p align="justify"><b>Trilha de aprendizagem.</b> O programa é composto por 14 semanas, cada uma dedicada a um tema específico. Os materiais são publicados neste perfil do GitHub, em formato Markdown, e podem ser consultados diretamente pelo navegador.</p>
+
+<p align="justify"><b>Projeto individual.</b> Cada participante desenvolve o próprio projeto ao longo da trilha, contemplando todas as etapas, do planejamento à implementação.</p>
+
+<p align="justify"><b>Níveis de aprofundamento.</b> O material contempla dois níveis: explicações detalhadas, destinadas a iniciantes, e desafios complementares, voltados a participantes com experiência prévia em programação.</p>
+
+<p align="justify"><b>Encontros semanais.</b> São realizados encontros semanais destinados ao esclarecimento de dúvidas, à prática conjunta e à apresentação do progresso dos projetos. Ambos os horários abordam o mesmo conteúdo, cabendo ao participante escolher o mais adequado à sua disponibilidade.</p>
 
 | Dia | Horário |
 |---|---|
 | Quarta-feira | 20h00 às 21h30 |
 | Sábado | 10h00 às 11h30 |
 
-## A trilha
+## Trilha
 
 | Semana | Tema | Material |
 |---|---|---|
-| 01 | Kickoff & Design System — Git, GitHub, Markdown, requisitos, UX/UI, Figma | [coffee-code-sem01](https://github.com/coffeecodepucpr/coffee-code-sem01) |
-| 02 | Interface Web, Parte 1: Layout — HTML, CSS, Flexbox, Grid, responsividade, Tailwind | [coffee-code-sem02](https://github.com/coffeecodepucpr/coffee-code-sem02) |
-| 03 | Interface Web, Parte 2: Dinâmica — JavaScript, DOM, eventos, validação, JSON | [coffee-code-sem03](https://github.com/coffeecodepucpr/coffee-code-sem03) |
+| 01 | Kickoff e Design System: Git, GitHub, Markdown, requisitos, UX/UI e Figma | [coffee-code-sem01](https://github.com/coffeecodepucpr/coffee-code-sem01) |
+| 02 | Interface Web, Parte 1 (Layout): HTML, CSS, Flexbox, Grid, responsividade e Tailwind | [coffee-code-sem02](https://github.com/coffeecodepucpr/coffee-code-sem02) |
+| 03 | Interface Web, Parte 2 (Dinâmica): JavaScript, DOM, eventos, validação e JSON | [coffee-code-sem03](https://github.com/coffeecodepucpr/coffee-code-sem03) |
 
-Novas semanas são adicionadas conforme a trilha avança.
+<p align="justify">Novas semanas são incorporadas a esta relação à medida que a trilha avança.</p>
 
 ## Entregas da turma
 
-Cada repositório de semana tem uma seção **Entregas da turma** com os projetos de quem já entregou, incluindo links para o protótipo no Figma e para as telas funcionando no navegador. O passo a passo para entregar está na pasta `entregas/` de cada semana.
+<p align="justify">Cada repositório semanal dispõe de uma seção denominada <b>Entregas da turma</b>, que reúne os projetos submetidos pelos participantes, com acesso aos protótipos desenvolvidos no Figma e às interfaces publicadas para visualização no navegador. As orientações para submissão encontram-se na pasta <code>entregas/</code> de cada semana.</p>
 
 ## Equipe
+
+<p align="justify">A organização do Coffee & Code é conduzida pela seguinte equipe:</p>
 
 <table>
   <tr>
