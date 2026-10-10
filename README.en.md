@@ -48,6 +48,7 @@ study → test → fail → research → build → understand → share
 | 01 | Kickoff and Design System: Git, GitHub, Markdown, requirements, UX/UI and Figma | [coffee-code-sem01](https://github.com/coffeecodepucpr/coffee-code-sem01) |
 | 02 | Web Interface, Part 1 (Layout): HTML, CSS, Flexbox, Grid, responsive design and Tailwind | [coffee-code-sem02](https://github.com/coffeecodepucpr/coffee-code-sem02) |
 | 03 | Web Interface, Part 2 (Interactivity): JavaScript, DOM, events, validation and JSON | [coffee-code-sem03](https://github.com/coffeecodepucpr/coffee-code-sem03) |
+| 04 | Data Modeling: PostgreSQL, Supabase, entity-relationship diagram, normalization and SQL | [coffee-code-sem04](https://github.com/coffeecodepucpr/coffee-code-sem04) |
 
 <p align="justify">New weeks are added to this list as the path progresses.</p>
 
