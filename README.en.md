@@ -8,7 +8,7 @@
 
 ```text
 > status: online
-> coffee loaded ✓
+> coffee loaded
 > ready to code
 ```
 
@@ -34,7 +34,7 @@ study → test → fail → research → build → understand → share
 
 <p align="justify"><b>Depth levels.</b> The material offers two levels: detailed explanations intended for beginners, and supplementary challenges intended for participants with previous programming experience.</p>
 
-<p align="justify"><b>Weekly meetings.</b> Weekly meetings are held for answering questions, collaborative practice and presenting project progress. Both sessions cover the same content, and participants may attend whichever best suits their schedule. Times are given in Brasília time (UTC−3).</p>
+<p align="justify"><b>Weekly meetings.</b> Weekly meetings are held for answering questions, collaborative practice and presenting project progress. Both sessions cover the same content, and participants may attend whichever best suits their schedule. Times are given in Brasília time (UTC-3).</p>
 
 | Day | Time |
 |---|---|
@@ -82,6 +82,6 @@ study → test → fail → research → build → understand → share
 
 <div align="center">
 
-`HTTP 418 — I'm a teapot`
+`HTTP 418: I'm a teapot`
 
 </div>

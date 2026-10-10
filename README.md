@@ -8,7 +8,7 @@ Português · [English](README.en.md)
 
 ```text
 > status: online
-> coffee loaded ✓
+> coffee loaded
 > ready to code
 ```
 
@@ -82,6 +82,6 @@ estudar → testar → errar → pesquisar → construir → entender → compar
 
 <div align="center">
 
-`HTTP 418 — I'm a teapot`
+`HTTP 418: I'm a teapot`
 
 </div>
