@@ -49,6 +49,7 @@ estudar → testar → errar → pesquisar → construir → entender → compar
 | 02 | Interface Web, Parte 1 (Layout): HTML, CSS, Flexbox, Grid, responsividade e Tailwind | [coffee-code-sem02](https://github.com/coffeecodepucpr/coffee-code-sem02) |
 | 03 | Interface Web, Parte 2 (Dinâmica): JavaScript, DOM, eventos, validação e JSON | [coffee-code-sem03](https://github.com/coffeecodepucpr/coffee-code-sem03) |
 | 04 | Modelagem de Dados: PostgreSQL, Supabase, diagrama entidade-relacionamento, normalização e SQL | [coffee-code-sem04](https://github.com/coffeecodepucpr/coffee-code-sem04) |
+| 05 | API RESTful Central, Parte 1 (CRUD): Python, FastAPI, métodos HTTP, status codes e Swagger | [coffee-code-sem05](https://github.com/coffeecodepucpr/coffee-code-sem05) |
 
 <p align="justify">Novas semanas são incorporadas a esta relação à medida que a trilha avança.</p>
 

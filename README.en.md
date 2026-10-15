@@ -49,6 +49,7 @@ study → test → fail → research → build → understand → share
 | 02 | Web Interface, Part 1 (Layout): HTML, CSS, Flexbox, Grid, responsive design and Tailwind | [coffee-code-sem02](https://github.com/coffeecodepucpr/coffee-code-sem02) |
 | 03 | Web Interface, Part 2 (Interactivity): JavaScript, DOM, events, validation and JSON | [coffee-code-sem03](https://github.com/coffeecodepucpr/coffee-code-sem03) |
 | 04 | Data Modeling: PostgreSQL, Supabase, entity-relationship diagram, normalization and SQL | [coffee-code-sem04](https://github.com/coffeecodepucpr/coffee-code-sem04) |
+| 05 | Central RESTful API, Part 1 (CRUD): Python, FastAPI, HTTP methods, status codes and Swagger | [coffee-code-sem05](https://github.com/coffeecodepucpr/coffee-code-sem05) |
 
 <p align="justify">New weeks are added to this list as the path progresses.</p>
 
