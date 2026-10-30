@@ -50,6 +50,8 @@ study → test → fail → research → build → understand → share
 | 03 | Web Interface, Part 2 (Interactivity): JavaScript, DOM, events, validation and JSON | [coffee-code-sem03](https://github.com/coffeecodepucpr/coffee-code-sem03) |
 | 04 | Data Modeling: PostgreSQL, Supabase, entity-relationship diagram, normalization and SQL | [coffee-code-sem04](https://github.com/coffeecodepucpr/coffee-code-sem04) |
 | 05 | Central RESTful API, Part 1 (CRUD): Python, FastAPI, HTTP methods, status codes and Swagger | [coffee-code-sem05](https://github.com/coffeecodepucpr/coffee-code-sem05) |
+| 06 | Central RESTful API, Part 2 (Integration): HTTP, headers, CORS, fetch and DOM | [coffee-code-sem06](https://github.com/coffeecodepucpr/coffee-code-sem06) |
+| 07 | Data & Scraping, Part 1 (Collection): Requests, BeautifulSoup, robots.txt, SQLite and scheduling | [coffee-code-sem07](https://github.com/coffeecodepucpr/coffee-code-sem07) |
 
 <p align="justify">New weeks are added to this list as the path progresses.</p>
 

@@ -50,6 +50,8 @@ estudar → testar → errar → pesquisar → construir → entender → compar
 | 03 | Interface Web, Parte 2 (Dinâmica): JavaScript, DOM, eventos, validação e JSON | [coffee-code-sem03](https://github.com/coffeecodepucpr/coffee-code-sem03) |
 | 04 | Modelagem de Dados: PostgreSQL, Supabase, diagrama entidade-relacionamento, normalização e SQL | [coffee-code-sem04](https://github.com/coffeecodepucpr/coffee-code-sem04) |
 | 05 | API RESTful Central, Parte 1 (CRUD): Python, FastAPI, métodos HTTP, status codes e Swagger | [coffee-code-sem05](https://github.com/coffeecodepucpr/coffee-code-sem05) |
+| 06 | API RESTful Central, Parte 2 (Integração): HTTP, cabeçalhos, CORS, fetch e DOM | [coffee-code-sem06](https://github.com/coffeecodepucpr/coffee-code-sem06) |
+| 07 | Data & Scraping, Parte 1 (Coleta): Requests, BeautifulSoup, robots.txt, SQLite e agendamento | [coffee-code-sem07](https://github.com/coffeecodepucpr/coffee-code-sem07) |
 
 <p align="justify">Novas semanas são incorporadas a esta relação à medida que a trilha avança.</p>
 
